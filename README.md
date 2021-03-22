@@ -1,4 +1,4 @@
-# LanZouCloud-Gui
+# LanZouCloud++
 一个蓝奏云客户端
 
 ### 简介
